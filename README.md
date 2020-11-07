@@ -13,7 +13,7 @@ Finalmente, ejecutar el último comando para empezar el servicio
 ```bash
 npm start
 ```
-###Pruebas de búsqueda
+### Pruebas de búsqueda
 Para hacer una búsqueda se utiliza el endpoint. Ej. 'hola'
 ```bash
 http://localhost:4300/search?q=hola
